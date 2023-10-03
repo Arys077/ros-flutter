@@ -1,4 +1,4 @@
-# jans_project
+# arys_project
 
 A new Flutter project.
 
